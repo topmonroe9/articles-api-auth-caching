@@ -26,7 +26,7 @@ The easiest way to set up the project is using Docker:
 
 ```bash
 # Clone the repository
-git clone
+git clone https://github.com/topmonroe9/articles-api-auth-caching
 cd nestjs-articles-api
 
 # Start the containers
